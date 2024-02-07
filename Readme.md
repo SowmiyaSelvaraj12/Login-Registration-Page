@@ -1,0 +1,1 @@
+A simple login and registration page is done using HTML, CSS and Javascript.
